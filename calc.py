@@ -1,2 +1,4 @@
 def add (x,y) :
-    return (y + x)
+   return (y + x)
+def sub (x,y)
+   return (y-x)
